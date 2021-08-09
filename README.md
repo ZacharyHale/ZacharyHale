@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZacharyHale
+- 👀 I’m interested in ... X86, Modbus, Protocols, Electronics, Malware Analyzation, Reverse Engineering
+- 🌱 I’m currently learning ... X86, Ghidra, C/C++. C#, Hex Editors
+- 💞️ I’m looking to collaborate on ... Anything people are willing to help teach me
+- 📫 How to reach me ... mrsahysteria@gmail.com
